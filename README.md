@@ -1,19 +1,27 @@
 <h1 align="center">👋 Hey, I'm Renan Cordeiro</h1>
 
 Full Stack Developer | Technical degree in Informatics - UNIVAP  
+
 Passionate about web development, databases, and software engineering. Always learning and refining best practices to build scalable and efficient solutions.  
 
-- Clean, maintainable, and efficient code is my priority.  
-- Advocate for best practices, coding standards, and software design patterns.  
-- Interested in collaborating with international teams to improve my English and broaden my perspective.  
-- Constantly learning new technologies and methodologies to enhance development processes.  
-
----
+- 🎨 Code is like art—elegant, purposeful, and flowing.
+- 🛠️ Passionate about best practices, design patterns, and clean architecture.
+- 🌍 Love collaborating with global teams to learn and grow.
+- 🚀 Always exploring new technologies to push boundaries.
+  
+#
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RenannCs&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" />
   
-  <p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RenannCs&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+#
+
+<div align="center">
+
+  <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -32,14 +40,15 @@ Passionate about web development, databases, and software engineering. Always le
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   </p>
+
 </div>
 
----
+#
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renancordeirosanto)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcordeiro945@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenannCs)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renancordeirosanto)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rcordeiro945@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RenannCs)
 
 </div>
